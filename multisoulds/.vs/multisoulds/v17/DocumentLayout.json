@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\FPSController.cs  MonoBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FPSController.cs  MonoBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\FPSController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\3dizart Books Pack\\FPSController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\doorinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\doorinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\CandleInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CandleInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\3dizart books pack\\puzzles\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\3dizart books pack\\puzzles\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\3dizart books pack\\puzzles\\dollpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\3dizart books pack\\puzzles\\dollpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\3dizart books pack\\puzzles\\candledoorpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\3dizart books pack\\puzzles\\candledoorpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\3dizart books pack\\puzzles\\candledoorpuzzle1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\3dizart books pack\\puzzles\\candledoorpuzzle1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\scripts\\clipboardscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clipboardscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\scripts\\curtainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\curtainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\animatedbook\\scripts\\animatedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\animatedbook\\scripts\\animatedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\scripts\\bathroomexittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bathroomexittrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\scripts\\rooftrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rooftrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\3dizart books pack\\puzzles\\candleinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\3dizart books pack\\puzzles\\candleinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\assets\\3dizart books pack\\puzzles\\cnadelmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1BACC9-5CE6-5A25-5512-00A059A4499F}|Assembly-CSharp.csproj|solutionrelative:assets\\3dizart books pack\\puzzles\\cnadelmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\QuickOutline\\Scripts\\Outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\QuickOutline\\Scripts\\Outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FPSController.cs  MonoBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\FPSController.cs  MonoBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\FPSController.cs  MonoBehaviour.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\FPSController.cs  MonoBehaviour.cs",
+              "RelativeToolTip": "Assets\\FPSController.cs  MonoBehaviour.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T10:04:11.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FPSController.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\FPSController.cs",
+              "RelativeDocumentMoniker": "Assets\\3dizart Books Pack\\FPSController.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\FPSController.cs",
+              "RelativeToolTip": "Assets\\3dizart Books Pack\\FPSController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T10:00:48.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandleInteract.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\CandleInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\CandleInteract.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\CandleInteract.cs",
+              "RelativeToolTip": "Assets\\CandleInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T21:21:08.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Interactable.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Interactable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T21:18:05.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Outline.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "RelativeDocumentMoniker": "Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "RelativeToolTip": "Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAgwBUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T21:10:09.694Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorInteract.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\DoorInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorInteract.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\DoorInteract.cs",
+              "RelativeToolTip": "Assets\\DoorInteract.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T21:23:10.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInteract.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\PlayerInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\3dizart Books Pack\\puzzles\\PlayerInteract.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\PlayerInteract.cs",
+              "RelativeToolTip": "Assets\\3dizart Books Pack\\puzzles\\PlayerInteract.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T21:13:21.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DollPuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\DollPuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\3dizart Books Pack\\puzzles\\DollPuzzle.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\DollPuzzle.cs",
+              "RelativeToolTip": "Assets\\3dizart Books Pack\\puzzles\\DollPuzzle.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T20:24:46.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimatedBookController.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\AnimatedBook\\Scripts\\AnimatedBookController.cs",
+              "RelativeDocumentMoniker": "Assets\\AnimatedBook\\Scripts\\AnimatedBookController.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\AnimatedBook\\Scripts\\AnimatedBookController.cs",
+              "RelativeToolTip": "Assets\\AnimatedBook\\Scripts\\AnimatedBookController.cs",
+              "ViewState": "AgIAABcCAAAAAAAAAAAAACYCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:56:23.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoofTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\RoofTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoofTrigger.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\RoofTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoofTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:56:08.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BathroomExitTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\BathroomExitTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BathroomExitTrigger.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\BathroomExitTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BathroomExitTrigger.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:55:49.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurtainScript.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\CurtainScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CurtainScript.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\CurtainScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CurtainScript.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:55:34.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClipboardScript.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\ClipboardScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClipboardScript.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\ClipboardScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClipboardScript.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:55:11.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManagerScript.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\GameManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManagerScript.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\Scripts\\GameManagerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManagerScript.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAUwHMBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:24:34.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandleDoorPuzzle1.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\CandleDoorPuzzle1.cs",
+              "RelativeDocumentMoniker": "Assets\\3dizart Books Pack\\puzzles\\CandleDoorPuzzle1.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\CandleDoorPuzzle1.cs",
+              "RelativeToolTip": "Assets\\3dizart Books Pack\\puzzles\\CandleDoorPuzzle1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:00:14.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CandleDoorPuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\CandleDoorPuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\3dizart Books Pack\\puzzles\\CandleDoorPuzzle.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\CandleDoorPuzzle.cs",
+              "RelativeToolTip": "Assets\\3dizart Books Pack\\puzzles\\CandleDoorPuzzle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:54:41.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandleInteract.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\CandleInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\3dizart Books Pack\\puzzles\\CandleInteract.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\CandleInteract.cs",
+              "RelativeToolTip": "Assets\\3dizart Books Pack\\puzzles\\CandleInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:00:59.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CnadelManger.cs",
+              "DocumentMoniker": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\CnadelManger.cs",
+              "RelativeDocumentMoniker": "Assets\\3dizart Books Pack\\puzzles\\CnadelManger.cs",
+              "ToolTip": "C:\\Users\\shouq\\OneDrive\\Desktop\\multi\\multisoulds\\Assets\\3dizart Books Pack\\puzzles\\CnadelManger.cs",
+              "RelativeToolTip": "Assets\\3dizart Books Pack\\puzzles\\CnadelManger.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:33:53.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

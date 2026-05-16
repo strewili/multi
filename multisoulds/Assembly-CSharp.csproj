@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8A04CDE7-0576-F36A-23DF-1ED4C8B25A04}</ProjectGuid>
+    <ProjectGuid>{BB1BACC9-5CE6-5A25-5512-00A059A4499F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,44 +63,125 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\LightMapSwitcher.cs" />
     <Compile Include="Assets\StylizedCore\StylizedWoodMonsters\URP\AnimationGallery\Scripts\Camera\ViewerCameraController.cs" />
-    <Compile Include="Assets\Scripts\SecretRoomEnterTrigger.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\PlayerInteract.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\SecondDoll.cs" />
     <Compile Include="Assets\Scripts\ClipboardScript.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\DrawerInteract.cs" />
     <Compile Include="Assets\Scripts\SafeboxSwitch.cs" />
     <Compile Include="Assets\StarterAssets\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\PanelCodePuzzle2.cs" />
+    <Compile Include="Assets\FbsController.cs" />
     <Compile Include="Assets\StylizedCore\StylizedWoodMonsters\URP\AnimationGallery\Scripts\Core\UniversalAnimationViewer.cs" />
     <Compile Include="Assets\StylizedCore\StylizedWoodMonsters\URP\AnimationGallery\Scripts\Core\AnimationSet.cs" />
-    <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
-    <Compile Include="Assets\QuickOutline\Scripts\Outline.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\DoorCodePuzzle.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\BookInteract.cs" />
+    <Compile Include="Assets\ElmanGameDevTools\FirstPersonControllerPro\Scripts\PlayerSystem\PlayerMusic.cs" />
     <Compile Include="Assets\AnimatedBook\Scripts\AnimatedBookController.cs" />
-    <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
     <Compile Include="Assets\Scripts\KeyHoldTrigger.cs" />
     <Compile Include="Assets\Scripts\LightControl.cs" />
-    <Compile Include="Assets\Scripts\UIContent.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\BookPuzzle.cs" />
+    <Compile Include="Assets\ElmanGameDevTools\FirstPersonControllerPro\Scripts\PlayerSystem\PlayerController.cs" />
     <Compile Include="Assets\LightFlashing.cs" />
     <Compile Include="Assets\Scripts\BathroomExitTrigger.cs" />
     <Compile Include="Assets\Scripts\PlayAuido.cs" />
+    <Compile Include="Assets\3d-character_animeGirlAkane\DemoScene\Scripts\MyLightSc.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\CnadelManger.cs" />
     <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\BasicRigidBodyPush.cs" />
+    <Compile Include="Assets\NoteIneract.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\DollPuzzle.cs" />
     <Compile Include="Assets\Scripts\CurtainScript.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\CandleInteract.cs" />
     <Compile Include="Assets\StylizedCore\StylizedWoodMonsters\URP\AnimationGallery\Scripts\Effects\Shockwave.cs" />
     <Compile Include="Assets\Scripts\GameManagerScript.cs" />
     <Compile Include="Assets\StylizedCore\StylizedWoodMonsters\URP\AnimationGallery\Scripts\Controllers\EnemySelector.cs" />
-    <Compile Include="Assets\StarterAssets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\FirstDool.cs" />
     <Compile Include="Assets\StylizedCore\StylizedWoodMonsters\URP\AnimationGallery\Scripts\Controllers\GroupDisplayManager.cs" />
     <Compile Include="Assets\StylizedCore\StylizedWoodMonsters\URP\AnimationGallery\Scripts\Effects\AnimationEffects.cs" />
     <Compile Include="Assets\StylizedCore\StylizedWoodMonsters\URP\AnimationGallery\Scripts\Entities\SummonedMinion.cs" />
     <Compile Include="Assets\AnimatedBook\Scripts\BookTransitionState.cs" />
-    <Compile Include="Assets\Scripts\PlayerMovment.cs" />
+    <Compile Include="Assets\DoorInteract.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\PanelPuzzle.cs" />
+    <Compile Include="Assets\3d-character_animeGirlAkane\DemoScene\Scripts\Akane_CharacterController.cs" />
     <Compile Include="Assets\StylizedCore\StylizedWoodMonsters\URP\AnimationGallery\Scripts\Controllers\TextureSetController.cs" />
+    <Compile Include="Assets\ElmanGameDevTools\FirstPersonControllerPro\Scripts\VisualEffects\RGBMaterialEffect.cs" />
     <Compile Include="Assets\Scripts\SafeBoxMonitor.cs" />
-    <Compile Include="Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
+    <Compile Include="Assets\3d-character_animeGirlAkane\DemoScene\Scripts\Akane_CameraScript.cs" />
     <Compile Include="Assets\Scripts\RoofTrigger.cs" />
-    <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\FirstPersonController.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\interactable.cs" />
     <Compile Include="Assets\StarterAssets\InputSystem\StarterAssetsInputs.cs" />
+    <Compile Include="Assets\3d-character_animeGirlAkane\DemoScene\Scripts\Emotions.cs" />
+    <Compile Include="Assets\3dizart Books Pack\puzzles\CandleDoorPuzzle1.cs" />
     <Compile Include="Assets\AnimatedBook\Scripts\BookUIButtonController.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\pcre2-8.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@img\sharp-win32-x64\lib\libvips-42.dll" />
+    <None Include="Assets\Unity Hub - Copy\libEGL.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\msvcp140_codecvt_ids.dll" />
+    <None Include="Assets\Unity Hub - Copy\vk_swiftshader.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\vcruntime140.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\msvcp140_2.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Vefects\Candle VFX URP\Candles\Wick\Shaders\SH_Vefects_VFX_Wick_01.shader" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\msvcp140.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\PocoFoundation.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\NativeProxyHelper.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\PocoFoundation.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@img\sharp-win32-x64\lib\libvips-cpp-8.17.2.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\Vefects\Candle VFX URP\Shared\Shaders\SH_Vefects_Candle_Wax_01.shader" />
+    <None Include="Assets\Vefects\Candle VFX URP\Shared\Shaders\SH_Vefects_Candle_Wax_VC_01.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\node_modules\node-addon-api\napi-inl.h" />
+    <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
+    <None Include="Assets\Unity Hub - Copy\resources\hub-license.txt" />
+    <None Include="Assets\Unity Hub - Copy\ffmpeg.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\NativeProxyHelper.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\concrt140.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\msvcp140_atomic_wait.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\Vefects\Candle VFX URP\_ Extra\Shaders\SH_Vefects_Extra_Billboard_01.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Assets\StarterAssets\license.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\Unity Hub - Copy\libGLESv2.dll" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\msvcp140_2.dll" />
+    <None Include="Assets\Unity Hub - Copy\d3dcompiler_47.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\msvcp140_1.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\Vefects\Candle VFX URP\Flames\Shaders\SH_Vefects_URP_Candle_Flame_01.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\msvcp140.dll" />
+    <None Include="Assets\Vefects\Candle VFX URP\Candles\Arcvhiz Glass Candle\Shaders\SH_Vefects_VFX_Glass_01.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\msvcp140_1.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\zlib1.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\msvcp140_atomic_wait.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\node_modules\node-addon-api\napi.h" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\node_modules\node-addon-api\nothing.c" />
+    <None Include="Assets\Vefects\Candle VFX URP\_ Extra\Shaders\SH_Vefects_Extra_Grid_01.shader" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\concrt140.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\Unity Hub - Copy\vulkan-1.dll" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\pcre2-8.dll" />
+    <None Include="Assets\DarkDropStudio\Voodoo Doll – Stylized 3D Prop\Documentation\ReadMe_VoodooDoll.txt" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-arm64\zlib1.dll" />
+    <None Include="Assets\Unity Hub - Copy\LICENSE.electron.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\Vefects\Candle VFX URP\Smoke\Shaders\SH_Vefects_URP_Candle_Smoke_01.shader" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\node_modules\node-addon-api\napi-inl.deprecated.h" />
+    <None Include="Assets\Unity Hub - Copy\resources\app.asar.unpacked\node_modules\@edt\proxy-helper\build\Release\win-x64\msvcp140_codecvt_ids.dll" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1131,16 +1212,16 @@
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
-      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
@@ -1151,8 +1232,8 @@
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+    <Reference Include="Unity.RenderPipelines.Core.Editor.Shared">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.Shared.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
@@ -1163,12 +1244,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Multiplayer.Center.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Sequences">
       <HintPath>Library\ScriptAssemblies\Unity.Sequences.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Multiplayer.Center.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Splines">
@@ -1283,6 +1364,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Formats.Fbx.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
       <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
       <Private>False</Private>
@@ -1291,8 +1376,8 @@
       <HintPath>Library\ScriptAssemblies\Unity.Formats.Alembic.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+    <Reference Include="Unity.Recorder.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Recorder.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
@@ -1303,8 +1388,8 @@
       <HintPath>Library\ScriptAssemblies\Unity.Formats.Fbx.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Recorder.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Recorder.Editor.dll</HintPath>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Burst">
@@ -1315,12 +1400,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Sequences.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Sequences.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Runtime">
